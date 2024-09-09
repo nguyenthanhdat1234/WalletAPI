@@ -1,0 +1,6 @@
+@WalletApp_HostAddress = http://localhost:5037
+
+GET {{WalletApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
